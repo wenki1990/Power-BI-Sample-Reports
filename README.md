@@ -1,5 +1,6 @@
 <center><h1>Data Visualization in Power BI</h1></center>
 Note: Kindly download .pbix files from the above files<br>
+
 **Table of Contents**
 
 1. Amazing Mart Sales Report
