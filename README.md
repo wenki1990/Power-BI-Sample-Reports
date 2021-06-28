@@ -15,7 +15,7 @@ The below report contains information regarding:
 - Overall Sales, Target and Profit
 - Variation is Sales, Target and Profit from 2011 to 2014
 
-<center><img src="images/1.png" width = 800 hei
+<center><img src="images/1.PNG" width = 800 height = 450></center>
 
 The below report contains information regarding:
 
@@ -24,7 +24,7 @@ The below report contains information regarding:
 - Sub-Category details - Names, Quantity, Sales and Profit
 - Category Sales and Profit over the years(2011 -  2014)
 
-<center><img src="images/2.png" width = 800 height = 450></center>
+<center><img src="images/2.PNG" width = 800 height = 450></center>
 
 <h4> Concepts Used </h4>
 
@@ -43,7 +43,7 @@ The below report contains information regarding:
 
 The below report consists of analysis of UK Bank Customers. The report is based on 2015(Jan - Dec) data.
 
-<center><img src="images/3.png" width = 800 height = 450></center>
+<center><img src="images/3.PNG" width = 800 height = 450></center>
 
 <h4> Concepts Used </h4>
 
