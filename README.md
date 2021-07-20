@@ -29,8 +29,13 @@ The below report contains information regarding:
 
 <center><img src="images/2.PNG" width = 800 height = 450></center>
 
+<center><img src="images/3.PNG" width = 800 height = 450></center><br>
+<center><img src="images/4.PNG" width = 800 height = 450></center>
 <h4> Concepts Used </h4>
 
+- Data Modeling
+- Power Query to do ETL
+- DAX to calculate new columns and measures
 - Text Box
 - Image
 - Slicer
@@ -41,12 +46,15 @@ The below report contains information regarding:
 - Table with conditional Formatting
 - Gauge Chart with Target Value
 - Scatter Plot with Play Axis
+- Sunburst Chart
+- Page Navigation
+- Bookmark Action
 
 <center><h2>2. UK BANK Customer Analysis</h2></
 
 The below report consists of analysis of UK Bank Customers. The report is based on 2015(Jan - Dec) data.
 
-<center><img src="images/3.PNG" width = 800 height = 450></center>
+<center><img src="images/5.PNG" width = 800 height = 450></center>
 
 <h4> Concepts Used </h4>
 
