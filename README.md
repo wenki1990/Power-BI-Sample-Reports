@@ -29,7 +29,7 @@ The below report contains information regarding:
 
 <center><img src="images/2.PNG" width = 800 height = 450></center>
 
-<center><img src="images/3.PNG" width = 800 height = 450></center><br>
+<center><img src="images/03.PNG" width = 800 height = 450></center><br>
 <center><img src="images/4.PNG" width = 800 height = 450></center>
 <h4> Concepts Used </h4>
 
